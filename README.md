@@ -39,7 +39,7 @@ The Towers of Hanoi is a classic puzzle game in computer science and mathematics
 3. **Run the application**
    ```bash
    java -cp bin test1.Start_test
-4. Play in the console of EclipseIDE or other environments
+4. **Play in the console of EclipseIDE or other environments**
 
 ## Gameplay 
 1. Start the game:
