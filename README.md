@@ -7,8 +7,8 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [How To Play](#how-to-play)
 - [Gameplay](#gameplay)
+- [Rules Of The Game](#rules-of-the-game)
 
 ## Introduction
 
@@ -41,7 +41,7 @@ The Towers of Hanoi is a classic puzzle game in computer science and mathematics
    java -cp bin test1.Start_test
 4. Play in the console of EclipseIDE or other environments
 
-## How To Play 
+## Gameplay 
 1. Start the game:
 Run the application as described in the setup section.
 
@@ -54,7 +54,7 @@ Follow the prompts to move disks from one tower to another. Enter the tower numb
 4. Solve the puzzle:
 Continue making moves until all disks are successfully moved to the target tower.
 
-## Gameplay
+## Rules Of The Game
 The Towers of Hanoi puzzle consists of three towers and a number of disks of different sizes. The initial state has all disks stacked on the first tower in decreasing size from bottom to top. The goal is to move all the disks to the third tower, following these rules:
 
 1. Only one disk can be moved at a time.
